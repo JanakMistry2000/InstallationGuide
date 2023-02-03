@@ -7,7 +7,7 @@ Step 1:
 https://maven.apache.org/download.cgi
 
 Step 2: After downloading run following command
-Run below command in foolder containing Downloaded file.
+Run below command in folder containing Downloaded file.
 ```
 tar -xvf apache-maven-3.8.7.bin.tar.gz
 ```
