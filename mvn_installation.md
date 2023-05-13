@@ -16,7 +16,7 @@ Step 3: Set Maven path to your extracted folder in your .zshrc file <br>
 *NOTE : if you are using .bash_profile then set your path in that particular file
 
 ```
-export PATH="$PATH:/Users/username/Downlands/apache-maven-3.8.7/bin"
+export PATH="$PATH:/Users/username/Downloads/apache-maven-3.8.7/bin"
 ```
 
 ## Windows
